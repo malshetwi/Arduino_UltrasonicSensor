@@ -1,7 +1,6 @@
 Hello          مرحبا
 
 # Arduino_UltrasonicSensor
-Git your software side for Ultrasonic Sensor.
 
 
 includes <NewPing.h> library is required,
