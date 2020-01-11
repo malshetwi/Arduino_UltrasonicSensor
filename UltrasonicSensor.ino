@@ -10,7 +10,7 @@ NewPing sonic (trig , echo , max_dis);                                          
 
 
 
-void setup() { //  code here, to run once: 
+void setup() { // code here, to run once: 
                    
 Serial.begin(9600);                                                                 // Debug console
 
