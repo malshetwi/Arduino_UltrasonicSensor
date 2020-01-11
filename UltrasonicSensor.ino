@@ -2,8 +2,8 @@
 
 
 
-int trig = D6 ;                                                                     // Variable for U_Sonic.
-int echo = D5 ;                                                                     // Variable for U_Sonic.
+int trig = D6 ;                                                                     // Variable for U_Sonic, depend in the pin you connect.
+int echo = D5 ;                                                                     // Variable for U_Sonic, depend in the pin you connect.
 int max_dis = 200 ;                                                                 // Variable for U_Sonic.
 NewPing sonic (trig , echo , max_dis);                                              // Variables in library(parameters).
 
